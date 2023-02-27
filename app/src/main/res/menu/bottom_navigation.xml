@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/trainingFragment"
+        android:icon="@android:drawable/ic_input_add"
+        android:title="Training" />
+
+    <item
+        android:id="@+id/customFragment"
+        android:icon="@android:drawable/ic_delete"
+        android:title="Custom" />
+
+    <item
+        android:id="@+id/reportFragment"
+        android:icon="@android:drawable/ic_lock_idle_alarm"
+        android:title="Report" />
+
+
+
+</menu>
